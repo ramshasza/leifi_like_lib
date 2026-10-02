@@ -1,0 +1,38 @@
+{
+  "title": "Brechung des Lichts",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Licht",
+    "Brechung",
+    "Brechungsgesetz",
+    "Totalreflexion"
+  ],
+  "summary": "Brechung an Grenzflächen, das Brechungsgesetz von Snellius und die Totalreflexion.",
+  "chapters": [
+    {
+      "title": "Brechung an Grenzflächen",
+      "page": 2,
+      "keywords": [
+        "optisch dichter",
+        "Lot"
+      ]
+    },
+    {
+      "title": "Brechungsgesetz",
+      "page": 3,
+      "keywords": [
+        "Snellius",
+        "Brechzahl"
+      ]
+    },
+    {
+      "title": "Totalreflexion",
+      "page": 4,
+      "keywords": [
+        "Grenzwinkel",
+        "Glasfaser"
+      ]
+    }
+  ]
+}

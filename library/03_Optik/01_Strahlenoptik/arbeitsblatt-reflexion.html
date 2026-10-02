@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arbeitsblatt: Reflexion am Spiegel</title>
+<style>
+  body { font: 16px/1.6 system-ui, "Segoe UI", sans-serif; max-width: 760px; margin: 0 auto; padding: 24px; color: #1d1d22; background: #fff; }
+  h1 { color: #7b3fe4; margin-bottom: 0; }
+  section { border-top: 2px solid #eee; margin-top: 32px; padding-top: 8px; }
+  .task { background: #f5f2fd; border-left: 4px solid #7b3fe4; padding: 12px 16px; border-radius: 6px; }
+  input { font: inherit; width: 5em; }
+  .ok { color: #2b8a3e; font-weight: 600; } .bad { color: #c92a2a; font-weight: 600; }
+  svg { max-width: 100%; height: auto; }
+</style>
+</head>
+<body>
+<h1>Arbeitsblatt: Reflexion am Spiegel</h1>
+<p>Mock-Arbeitsblatt (HTML) – zeigt, dass die Bibliothek auch andere Dokumenttypen als PDF darstellen kann.</p>
+
+<section id="teil-1">
+  <h2>Teil 1: Winkel bestimmen</h2>
+  <svg viewBox="0 0 400 200" role="img" aria-label="Lichtstrahl wird an einem Spiegel reflektiert">
+    <rect x="40" y="170" width="320" height="8" fill="#adb5bd"/>
+    <line x1="200" y1="170" x2="200" y2="30" stroke="#868e96" stroke-dasharray="6 4"/>
+    <line x1="80" y1="50" x2="200" y2="170" stroke="#f08c00" stroke-width="3"/>
+    <line x1="200" y1="170" x2="320" y2="50" stroke="#f08c00" stroke-width="3"/>
+    <text x="150" y="110" font-size="14">α</text><text x="235" y="110" font-size="14">α'</text>
+  </svg>
+  <div class="task">
+    Ein Lichtstrahl trifft unter einem Einfallswinkel von 35° auf einen ebenen Spiegel.
+    Wie groß ist der Reflexionswinkel?
+    <p><input id="a1" type="number"> ° <button onclick="check()">Prüfen</button> <span id="r1"></span></p>
+  </div>
+</section>
+
+<section id="teil-2">
+  <h2>Teil 2: Spiegelbild konstruieren</h2>
+  <div class="task">Eine Kerze steht 40 cm vor einem ebenen Spiegel. In welcher Entfernung von der Kerze siehst du ihr Spiegelbild?
+  Begründe mit dem Reflexionsgesetz.</div>
+  <details><summary>Lösung anzeigen</summary><p>Das Bild liegt 40 cm hinter dem Spiegel, also 80 cm von der Kerze entfernt.</p></details>
+</section>
+
+<section id="teil-3">
+  <h2>Teil 3: Periskop</h2>
+  <div class="task">Ein Periskop besteht aus zwei parallelen, um 45° geneigten Spiegeln. Skizziere den Strahlengang und erkläre, warum das Bild aufrecht ist.</div>
+  <details><summary>Lösung anzeigen</summary><p>Jeder Spiegel lenkt das Licht um 90° um. Durch die doppelte Reflexion ist das Bild wieder aufrecht und seitenrichtig.</p></details>
+</section>
+
+<script>
+  function check() {
+    var v = Number(document.getElementById('a1').value), r = document.getElementById('r1');
+    r.textContent = v === 35 ? 'Richtig – Einfallswinkel = Reflexionswinkel.' : 'Noch nicht – denk an das Reflexionsgesetz.';
+    r.className = v === 35 ? 'ok' : 'bad';
+  }
+</script>
+</body>
+</html>

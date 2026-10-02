@@ -1,0 +1,41 @@
+{
+  "title": "Reibung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Kraft",
+    "Reibungskraft",
+    "Haftreibung",
+    "Gleitreibung"
+  ],
+  "summary": "Haft-, Gleit- und Rollreibung, die Berechnung der Reibungskraft und Reibung im Alltag.",
+  "chapters": [
+    {
+      "title": "Arten der Reibung",
+      "page": 2,
+      "keywords": [
+        "Haftreibung",
+        "Gleitreibung",
+        "Rollreibung"
+      ]
+    },
+    {
+      "title": "Reibungskraft berechnen",
+      "page": 3,
+      "keywords": [
+        "Reibungszahl",
+        "Normalkraft",
+        "F_R = µ · F_N"
+      ]
+    },
+    {
+      "title": "Reibung im Alltag",
+      "page": 4,
+      "keywords": [
+        "Bremsen",
+        "Schmierung",
+        "Kugellager"
+      ]
+    }
+  ]
+}

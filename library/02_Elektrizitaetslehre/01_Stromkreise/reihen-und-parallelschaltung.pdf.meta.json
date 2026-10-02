@@ -1,0 +1,37 @@
+{
+  "title": "Reihen- und Parallelschaltung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Stromkreis",
+    "Reihenschaltung",
+    "Parallelschaltung",
+    "Widerstand"
+  ],
+  "summary": "Gesetze für Strom, Spannung und Widerstand in Reihen- und Parallelschaltungen sowie die Kirchhoffschen Regeln.",
+  "chapters": [
+    {
+      "title": "Reihenschaltung",
+      "page": 2,
+      "keywords": [
+        "Gesamtwiderstand",
+        "Spannungsteilung"
+      ]
+    },
+    {
+      "title": "Parallelschaltung",
+      "page": 3,
+      "keywords": [
+        "Stromteilung"
+      ]
+    },
+    {
+      "title": "Kirchhoffsche Regeln",
+      "page": 4,
+      "keywords": [
+        "Knotenregel",
+        "Maschenregel"
+      ]
+    }
+  ]
+}

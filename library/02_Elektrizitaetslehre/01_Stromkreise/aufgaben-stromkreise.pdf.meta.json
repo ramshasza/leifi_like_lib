@@ -1,0 +1,37 @@
+{
+  "title": "Aufgaben zu Stromkreisen",
+  "type": "Aufgaben",
+  "level": "Mittelstufe",
+  "tags": [
+    "Übungsaufgaben",
+    "Reihenschaltung",
+    "Parallelschaltung",
+    "Widerstand"
+  ],
+  "summary": "Übungen zu Lichterkette (Reihenschaltung) und parallel geschalteten Widerständen – mit Lösungen.",
+  "chapters": [
+    {
+      "title": "Aufgabe 1: Lichterkette",
+      "page": 2,
+      "keywords": [
+        "Reihenschaltung",
+        "Teilspannung"
+      ]
+    },
+    {
+      "title": "Aufgabe 2: Zwei Widerstände",
+      "page": 3,
+      "keywords": [
+        "Parallelschaltung",
+        "Gesamtwiderstand"
+      ]
+    },
+    {
+      "title": "Lösungen",
+      "page": 4,
+      "keywords": [
+        "Lösung"
+      ]
+    }
+  ]
+}

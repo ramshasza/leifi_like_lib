@@ -1,0 +1,37 @@
+{
+  "title": "Hauptsätze der Thermodynamik",
+  "type": "Grundwissen",
+  "level": "Oberstufe",
+  "tags": [
+    "Thermodynamik",
+    "Energie",
+    "Entropie",
+    "Wärme"
+  ],
+  "summary": "Erster, zweiter und dritter Hauptsatz: Energieerhaltung, Entropie und der absolute Nullpunkt.",
+  "chapters": [
+    {
+      "title": "Erster Hauptsatz",
+      "page": 2,
+      "keywords": [
+        "innere Energie",
+        "ΔU = Q + W"
+      ]
+    },
+    {
+      "title": "Zweiter Hauptsatz",
+      "page": 3,
+      "keywords": [
+        "Entropie",
+        "Irreversibilität"
+      ]
+    },
+    {
+      "title": "Dritter Hauptsatz",
+      "page": 4,
+      "keywords": [
+        "absoluter Nullpunkt"
+      ]
+    }
+  ]
+}

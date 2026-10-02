@@ -1,0 +1,36 @@
+{
+  "title": "Wärmekapazität",
+  "type": "Aufgaben",
+  "level": "Mittelstufe",
+  "tags": [
+    "Wärme",
+    "spezifische Wärmekapazität",
+    "Energie",
+    "Übungsaufgaben"
+  ],
+  "summary": "Die Grundgleichung der Wärmelehre und eine Aufgabe zum Wasserkocher.",
+  "chapters": [
+    {
+      "title": "Grundlagen",
+      "page": 2,
+      "keywords": [
+        "Q = c · m · ΔT"
+      ]
+    },
+    {
+      "title": "Aufgabe: Wasserkocher",
+      "page": 3,
+      "keywords": [
+        "Leistung",
+        "Wirkungsgrad"
+      ]
+    },
+    {
+      "title": "Lösungen",
+      "page": 4,
+      "keywords": [
+        "Lösung"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Widerstand und Ohmsches Gesetz",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Widerstand",
+    "Ohmsches Gesetz",
+    "Spannung",
+    "Stromstärke"
+  ],
+  "summary": "Definition des elektrischen Widerstands, das Ohmsche Gesetz und der spezifische Widerstand von Drähten.",
+  "chapters": [
+    {
+      "title": "Elektrischer Widerstand",
+      "page": 2,
+      "keywords": [
+        "R = U / I",
+        "Ohm"
+      ]
+    },
+    {
+      "title": "Ohmsches Gesetz",
+      "page": 3,
+      "keywords": [
+        "Proportionalität",
+        "Temperatur"
+      ]
+    },
+    {
+      "title": "Spezifischer Widerstand",
+      "page": 4,
+      "keywords": [
+        "Leiterlänge",
+        "Querschnitt"
+      ]
+    }
+  ]
+}

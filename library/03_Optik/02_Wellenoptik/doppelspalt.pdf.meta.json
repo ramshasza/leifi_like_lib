@@ -1,0 +1,38 @@
+{
+  "title": "Interferenz am Doppelspalt",
+  "type": "Grundwissen",
+  "level": "Oberstufe",
+  "tags": [
+    "Interferenz",
+    "Welle",
+    "Doppelspalt",
+    "Wellenlänge"
+  ],
+  "summary": "Huygenssches Prinzip, Interferenzmuster hinter dem Doppelspalt und die Bestimmung der Wellenlänge.",
+  "chapters": [
+    {
+      "title": "Huygenssches Prinzip",
+      "page": 2,
+      "keywords": [
+        "Elementarwelle"
+      ]
+    },
+    {
+      "title": "Interferenzmuster",
+      "page": 3,
+      "keywords": [
+        "Gangunterschied",
+        "Maximum",
+        "Minimum"
+      ]
+    },
+    {
+      "title": "Wellenlänge bestimmen",
+      "page": 4,
+      "keywords": [
+        "Schirmabstand",
+        "Spaltabstand"
+      ]
+    }
+  ]
+}

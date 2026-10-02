@@ -1,0 +1,37 @@
+{
+  "title": "Arbeit und Leistung",
+  "type": "Aufgaben",
+  "level": "Mittelstufe",
+  "tags": [
+    "Arbeit",
+    "Leistung",
+    "Energie",
+    "Übungsaufgaben"
+  ],
+  "summary": "Kurze Wiederholung von Arbeit und Leistung und eine Aufgabe zur Hubarbeit beim Treppensteigen.",
+  "chapters": [
+    {
+      "title": "Grundlagen",
+      "page": 2,
+      "keywords": [
+        "W = F · s",
+        "P = W / t",
+        "Watt"
+      ]
+    },
+    {
+      "title": "Aufgabe: Treppensteigen",
+      "page": 3,
+      "keywords": [
+        "Hubarbeit"
+      ]
+    },
+    {
+      "title": "Lösungen",
+      "page": 4,
+      "keywords": [
+        "Lösung"
+      ]
+    }
+  ]
+}

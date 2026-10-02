@@ -1,0 +1,38 @@
+{
+  "title": "Wärmekraftmaschinen",
+  "type": "Grundwissen",
+  "level": "Oberstufe",
+  "tags": [
+    "Wärmekraftmaschine",
+    "Wirkungsgrad",
+    "Motor",
+    "Energie"
+  ],
+  "summary": "Funktionsprinzip und Wirkungsgrad von Wärmekraftmaschinen mit Beispielen vom Ottomotor bis zur Wärmepumpe.",
+  "chapters": [
+    {
+      "title": "Funktionsprinzip",
+      "page": 2,
+      "keywords": [
+        "Arbeitsmedium",
+        "Wärmereservoir"
+      ]
+    },
+    {
+      "title": "Wirkungsgrad",
+      "page": 3,
+      "keywords": [
+        "η = W / Q"
+      ]
+    },
+    {
+      "title": "Beispiele",
+      "page": 4,
+      "keywords": [
+        "Ottomotor",
+        "Dampfturbine",
+        "Wärmepumpe"
+      ]
+    }
+  ]
+}

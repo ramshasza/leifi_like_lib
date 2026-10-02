@@ -1,0 +1,48 @@
+{
+  "title": "Gleichförmige Bewegung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Geschwindigkeit",
+    "Bewegung",
+    "Weg-Zeit-Diagramm",
+    "Durchschnittsgeschwindigkeit"
+  ],
+  "summary": "Bewegungen mit konstanter Geschwindigkeit: Definition, Weg-Zeit-Gesetz und die Auswertung von Diagrammen.",
+  "chapters": [
+    {
+      "title": "Was ist eine gleichförmige Bewegung?",
+      "page": 2,
+      "keywords": [
+        "konstante Geschwindigkeit",
+        "Bezugssystem"
+      ]
+    },
+    {
+      "title": "Weg-Zeit-Gesetz",
+      "page": 3,
+      "keywords": [
+        "s = v · t",
+        "Formel"
+      ]
+    },
+    {
+      "title": "Diagramme auswerten",
+      "page": 4,
+      "keywords": [
+        "t-s-Diagramm",
+        "Steigung",
+        "Ursprungsgerade"
+      ]
+    },
+    {
+      "title": "Einheiten umrechnen",
+      "page": 5,
+      "keywords": [
+        "km/h",
+        "m/s",
+        "Umrechnung"
+      ]
+    }
+  ]
+}

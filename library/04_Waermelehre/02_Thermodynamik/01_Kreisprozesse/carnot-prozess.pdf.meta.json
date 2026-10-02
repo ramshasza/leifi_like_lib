@@ -1,0 +1,36 @@
+{
+  "title": "Der Carnot-Prozess",
+  "type": "Grundwissen",
+  "level": "Oberstufe",
+  "tags": [
+    "Kreisprozess",
+    "Carnot",
+    "Wirkungsgrad",
+    "Thermodynamik"
+  ],
+  "summary": "Die vier Takte des Carnot-Prozesses, seine Darstellung im p-V-Diagramm und der maximale Wirkungsgrad.",
+  "chapters": [
+    {
+      "title": "Die vier Takte",
+      "page": 2,
+      "keywords": [
+        "isotherm",
+        "adiabatisch"
+      ]
+    },
+    {
+      "title": "p-V-Diagramm",
+      "page": 3,
+      "keywords": [
+        "Arbeit als Fläche"
+      ]
+    },
+    {
+      "title": "Carnot-Wirkungsgrad",
+      "page": 4,
+      "keywords": [
+        "η = 1 − T_k / T_w"
+      ]
+    }
+  ]
+}

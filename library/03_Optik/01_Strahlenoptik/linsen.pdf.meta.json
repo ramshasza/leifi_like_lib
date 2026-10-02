@@ -1,0 +1,47 @@
+{
+  "title": "Linsen und optische Abbildung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Linse",
+    "Brennweite",
+    "Abbildung",
+    "Linsengleichung"
+  ],
+  "summary": "Sammel- und Zerstreuungslinsen, Bildkonstruktion, Linsengleichung sowie Auge und Brille.",
+  "chapters": [
+    {
+      "title": "Sammel- und Zerstreuungslinsen",
+      "page": 2,
+      "keywords": [
+        "Brennpunkt",
+        "Brennweite"
+      ]
+    },
+    {
+      "title": "Bildkonstruktion",
+      "page": 3,
+      "keywords": [
+        "Parallelstrahl",
+        "Mittelpunktstrahl",
+        "Brennpunktstrahl"
+      ]
+    },
+    {
+      "title": "Linsengleichung",
+      "page": 4,
+      "keywords": [
+        "1/f = 1/g + 1/b",
+        "Abbildungsmaßstab"
+      ]
+    },
+    {
+      "title": "Auge und Brille",
+      "page": 5,
+      "keywords": [
+        "Kurzsichtigkeit",
+        "Weitsichtigkeit"
+      ]
+    }
+  ]
+}

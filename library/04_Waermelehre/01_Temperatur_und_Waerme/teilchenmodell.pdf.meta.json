@@ -1,0 +1,40 @@
+{
+  "title": "Temperatur und Teilchenmodell",
+  "type": "Grundwissen",
+  "level": "Unterstufe",
+  "tags": [
+    "Temperatur",
+    "Teilchenmodell",
+    "Aggregatzustand",
+    "Kelvin"
+  ],
+  "summary": "Das Teilchenmodell, Celsius- und Kelvin-Skala sowie die Aggregatzustände.",
+  "chapters": [
+    {
+      "title": "Das Teilchenmodell",
+      "page": 2,
+      "keywords": [
+        "Brownsche Bewegung"
+      ]
+    },
+    {
+      "title": "Temperaturskalen",
+      "page": 3,
+      "keywords": [
+        "Celsius",
+        "Kelvin",
+        "absoluter Nullpunkt"
+      ]
+    },
+    {
+      "title": "Aggregatzustände",
+      "page": 4,
+      "keywords": [
+        "fest",
+        "flüssig",
+        "gasförmig",
+        "Schmelzen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /PageMode /UseNone >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1529 >>
+stream
+0.788 0.541 0.000 rg 0 798 595 44 re f
+BT /F2 10 Tf 1 1 1 rg 50 814 Td (Elektrizitätslehre  ›  Stromkreise) Tj ET
+BT /F1 10 Tf 1 1 1 rg 470 814 Td (Grundwissen) Tj ET
+0.8 0.8 0.82 RG 0.8 w 50 50 m 545 50 l S
+BT /F1 8 Tf 0.45 0.45 0.5 rg 50 34 Td (Reihen- und Parallelschaltung  ·  Mock-Dokument \(Proof of Concept\)) Tj ET
+BT /F1 8 Tf 0.45 0.45 0.5 rg 520 34 Td (Seite 1) Tj ET
+BT /F2 26 Tf 0.12 0.12 0.14 rg 50 740 Td (Reihen- und Parallelschaltung) Tj ET
+BT /F1 11 Tf 0.788 0.541 0.000 rg 50 704 Td (Grundwissen  ·  Mittelstufe) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 674 Td (Gesetze für Strom, Spannung und Widerstand in Reihen- und Parallelschaltungen) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 656.6 Td (sowie die Kirchhoffschen Regeln.) Tj ET
+BT /F2 14 Tf 0.12 0.12 0.14 rg 50 615.2 Td (Inhalt) Tj ET
+0.8 0.8 0.82 RG 0.8 w 50 607.2 m 545 607.2 l S
+BT /F1 12 Tf 0.12 0.12 0.14 rg 60 587.2 Td (1.  Reihenschaltung) Tj ET
+BT /F1 12 Tf 0.45 0.45 0.5 rg 510 587.2 Td (2) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 60 565.2 Td (2.  Parallelschaltung) Tj ET
+BT /F1 12 Tf 0.45 0.45 0.5 rg 510 565.2 Td (3) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 60 543.2 Td (3.  Kirchhoffsche Regeln) Tj ET
+BT /F1 12 Tf 0.45 0.45 0.5 rg 510 543.2 Td (4) Tj ET
+0.95 0.95 0.97 rg 50 455.20000000000005 495 58 re f
+BT /F1 10 Tf 0.35 0.35 0.4 rg 62 495.20000000000005 Td (Hinweis: Automatisch erzeugtes Mock-Dokument für den Proof of Concept. Im echten Einsatz) Tj ET
+BT /F1 10 Tf 0.35 0.35 0.4 rg 62 480.70000000000005 Td (liegen hier eure eigenen PDFs.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 1311 >>
+stream
+0.788 0.541 0.000 rg 0 798 595 44 re f
+BT /F2 10 Tf 1 1 1 rg 50 814 Td (Elektrizitätslehre  ›  Stromkreise) Tj ET
+BT /F1 10 Tf 1 1 1 rg 470 814 Td (Grundwissen) Tj ET
+0.8 0.8 0.82 RG 0.8 w 50 50 m 545 50 l S
+BT /F1 8 Tf 0.45 0.45 0.5 rg 50 34 Td (Reihen- und Parallelschaltung  ·  Mock-Dokument \(Proof of Concept\)) Tj ET
+BT /F1 8 Tf 0.45 0.45 0.5 rg 520 34 Td (Seite 2) Tj ET
+BT /F1 11 Tf 0.788 0.541 0.000 rg 50 750 Td (Kapitel 1) Tj ET
+BT /F2 20 Tf 0.12 0.12 0.14 rg 50 726 Td (Reihenschaltung) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 690 Td (In der Reihenschaltung ist die Stromstärke überall gleich. Die Teilspannungen) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 671.4 Td (addieren sich zur Gesamtspannung, die Widerstände zum Gesamtwiderstand.) Tj ET
+0.788 0.541 0.000 rg 50 602.8 4 40 re f
+BT /F2 10 Tf 0.35 0.35 0.4 rg 64 630.8 Td (Schlagworte) Tj ET
+BT /F1 10 Tf 0.35 0.35 0.4 rg 64 612.8 Td (Gesamtwiderstand  ·  Spannungsteilung) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 572.8 Td (Platzhaltertext: An dieser Stelle würde im echten Dokument die ausführliche Herleitung mit) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 558.3 Td (Abbildungen, Beispielen und Tabellen stehen. Der Proof of Concept zeigt nur, dass Kapitel gezielt) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 543.8 Td (angesprungen werden können.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 1251 >>
+stream
+0.788 0.541 0.000 rg 0 798 595 44 re f
+BT /F2 10 Tf 1 1 1 rg 50 814 Td (Elektrizitätslehre  ›  Stromkreise) Tj ET
+BT /F1 10 Tf 1 1 1 rg 470 814 Td (Grundwissen) Tj ET
+0.8 0.8 0.82 RG 0.8 w 50 50 m 545 50 l S
+BT /F1 8 Tf 0.45 0.45 0.5 rg 50 34 Td (Reihen- und Parallelschaltung  ·  Mock-Dokument \(Proof of Concept\)) Tj ET
+BT /F1 8 Tf 0.45 0.45 0.5 rg 520 34 Td (Seite 3) Tj ET
+BT /F1 11 Tf 0.788 0.541 0.000 rg 50 750 Td (Kapitel 2) Tj ET
+BT /F2 20 Tf 0.12 0.12 0.14 rg 50 726 Td (Parallelschaltung) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 690 Td (In der Parallelschaltung liegt an allen Zweigen dieselbe Spannung. Die Teilströme) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 671.4 Td (addieren sich zum Gesamtstrom.) Tj ET
+0.788 0.541 0.000 rg 50 602.8 4 40 re f
+BT /F2 10 Tf 0.35 0.35 0.4 rg 64 630.8 Td (Schlagworte) Tj ET
+BT /F1 10 Tf 0.35 0.35 0.4 rg 64 612.8 Td (Stromteilung) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 572.8 Td (Platzhaltertext: An dieser Stelle würde im echten Dokument die ausführliche Herleitung mit) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 558.3 Td (Abbildungen, Beispielen und Tabellen stehen. Der Proof of Concept zeigt nur, dass Kapitel gezielt) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 543.8 Td (angesprungen werden können.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 1450 >>
+stream
+0.788 0.541 0.000 rg 0 798 595 44 re f
+BT /F2 10 Tf 1 1 1 rg 50 814 Td (Elektrizitätslehre  ›  Stromkreise) Tj ET
+BT /F1 10 Tf 1 1 1 rg 470 814 Td (Grundwissen) Tj ET
+0.8 0.8 0.82 RG 0.8 w 50 50 m 545 50 l S
+BT /F1 8 Tf 0.45 0.45 0.5 rg 50 34 Td (Reihen- und Parallelschaltung  ·  Mock-Dokument \(Proof of Concept\)) Tj ET
+BT /F1 8 Tf 0.45 0.45 0.5 rg 520 34 Td (Seite 4) Tj ET
+BT /F1 11 Tf 0.788 0.541 0.000 rg 50 750 Td (Kapitel 3) Tj ET
+BT /F2 20 Tf 0.12 0.12 0.14 rg 50 726 Td (Kirchhoffsche Regeln) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 690 Td (Die Knotenregel besagt: Die Summe der zufließenden Ströme ist gleich der Summe der) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 671.4 Td (abfließenden. Nach der Maschenregel ist die Summe der Spannungen in einer Masche) Tj ET
+BT /F1 12 Tf 0.12 0.12 0.14 rg 50 652.8 Td (null.) Tj ET
+0.788 0.541 0.000 rg 50 584.1999999999999 4 40 re f
+BT /F2 10 Tf 0.35 0.35 0.4 rg 64 612.1999999999999 Td (Schlagworte) Tj ET
+BT /F1 10 Tf 0.35 0.35 0.4 rg 64 594.1999999999999 Td (Knotenregel  ·  Maschenregel) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 554.1999999999999 Td (Platzhaltertext: An dieser Stelle würde im echten Dokument die ausführliche Herleitung mit) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 539.6999999999999 Td (Abbildungen, Beispielen und Tabellen stehen. Der Proof of Concept zeigt nur, dass Kapitel gezielt) Tj ET
+BT /F1 10 Tf 0.55 0.55 0.6 rg 50 525.1999999999999 Td (angesprungen werden können.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Title (Reihen- und Parallelschaltung) /Producer (leifi-like-lib mock generator) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000160 00000 n 
+0000000257 00000 n 
+0000000359 00000 n 
+0000001940 00000 n 
+0000002076 00000 n 
+0000003439 00000 n 
+0000003575 00000 n 
+0000004878 00000 n 
+0000005015 00000 n 
+0000006518 00000 n 
+0000006656 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R /Info 13 0 R >>
+startxref
+6759
+%%EOF

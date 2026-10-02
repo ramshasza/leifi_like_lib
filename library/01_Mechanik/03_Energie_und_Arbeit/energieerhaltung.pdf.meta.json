@@ -1,0 +1,37 @@
+{
+  "title": "Energieerhaltung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Energie",
+    "Lageenergie",
+    "Bewegungsenergie",
+    "Energieerhaltung"
+  ],
+  "summary": "Lage- und Bewegungsenergie, der Energieerhaltungssatz und Energieumwandlungen am Beispiel der Achterbahn.",
+  "chapters": [
+    {
+      "title": "Energieformen",
+      "page": 2,
+      "keywords": [
+        "potentielle Energie",
+        "kinetische Energie"
+      ]
+    },
+    {
+      "title": "Energieerhaltungssatz",
+      "page": 3,
+      "keywords": [
+        "abgeschlossenes System"
+      ]
+    },
+    {
+      "title": "Beispiel Achterbahn",
+      "page": 4,
+      "keywords": [
+        "Energieumwandlung",
+        "Reibungsverluste"
+      ]
+    }
+  ]
+}

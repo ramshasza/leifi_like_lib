@@ -1,0 +1,40 @@
+{
+  "title": "Der einfache Stromkreis",
+  "type": "Grundwissen",
+  "level": "Unterstufe",
+  "tags": [
+    "Stromkreis",
+    "Stromstärke",
+    "Spannung",
+    "Schaltzeichen"
+  ],
+  "summary": "Bestandteile eines Stromkreises, Schaltzeichen sowie das Messen von Stromstärke und Spannung.",
+  "chapters": [
+    {
+      "title": "Bestandteile",
+      "page": 2,
+      "keywords": [
+        "Quelle",
+        "Leiter",
+        "Verbraucher",
+        "Schalter"
+      ]
+    },
+    {
+      "title": "Schaltzeichen",
+      "page": 3,
+      "keywords": [
+        "Schaltplan"
+      ]
+    },
+    {
+      "title": "Stromstärke und Spannung",
+      "page": 4,
+      "keywords": [
+        "Ampere",
+        "Volt",
+        "Messgerät"
+      ]
+    }
+  ]
+}

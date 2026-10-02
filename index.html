@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lernbibliothek</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn menu-btn" data-action="toggle-nav" aria-label="Navigation ein-/ausblenden">☰</button>
+    <a class="brand" href="#/"><span class="brand-mark">L</span><span>Lernbibliothek</span></a>
+    <div class="search">
+      <input id="search-input" type="search" placeholder="Suchen: Thema, Kapitel, Schlagwort …  ( / )" autocomplete="off" aria-label="Bibliothek durchsuchen">
+    </div>
+    <nav class="topnav">
+      <a href="#/" data-nav="home">Übersicht</a>
+      <a href="#/fortschritt" data-nav="fortschritt">Mein Fortschritt</a>
+    </nav>
+  </header>
+
+  <div class="layout">
+    <aside id="sidebar" class="sidebar" aria-label="Kategorien"></aside>
+    <main id="main" class="main" tabindex="-1"></main>
+  </div>
+
+  <!-- Erzeugt von tools/build-catalog.mjs aus dem Ordner library/ -->
+  <script src="data/catalog.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

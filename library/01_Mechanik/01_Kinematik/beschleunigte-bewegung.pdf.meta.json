@@ -1,0 +1,48 @@
+{
+  "title": "Gleichmäßig beschleunigte Bewegung",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Beschleunigung",
+    "Geschwindigkeit",
+    "Bewegung",
+    "freier Fall"
+  ],
+  "summary": "Beschleunigung, Bewegungsgesetze der gleichmäßig beschleunigten Bewegung, freier Fall und Bremsweg.",
+  "chapters": [
+    {
+      "title": "Beschleunigung",
+      "page": 2,
+      "keywords": [
+        "a = Δv / Δt",
+        "m/s²"
+      ]
+    },
+    {
+      "title": "Bewegungsgesetze",
+      "page": 3,
+      "keywords": [
+        "s = ½ · a · t²",
+        "v = a · t"
+      ]
+    },
+    {
+      "title": "Freier Fall",
+      "page": 4,
+      "keywords": [
+        "Fallbeschleunigung",
+        "g = 9,81 m/s²",
+        "Luftwiderstand"
+      ]
+    },
+    {
+      "title": "Bremsweg",
+      "page": 5,
+      "keywords": [
+        "Anhalteweg",
+        "Reaktionsweg",
+        "Verkehr"
+      ]
+    }
+  ]
+}

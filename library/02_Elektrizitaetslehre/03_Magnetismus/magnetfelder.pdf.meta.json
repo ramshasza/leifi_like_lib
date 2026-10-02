@@ -1,0 +1,39 @@
+{
+  "title": "Magnetfelder",
+  "type": "Grundwissen",
+  "level": "Unterstufe",
+  "tags": [
+    "Magnetfeld",
+    "Feldlinien",
+    "Elektromagnet",
+    "Kompass"
+  ],
+  "summary": "Dauermagnete, Feldlinienbilder und der Elektromagnet.",
+  "chapters": [
+    {
+      "title": "Dauermagnete",
+      "page": 2,
+      "keywords": [
+        "Nordpol",
+        "Südpol"
+      ]
+    },
+    {
+      "title": "Feldlinien",
+      "page": 3,
+      "keywords": [
+        "Feldlinienbild",
+        "Eisenfeilspäne"
+      ]
+    },
+    {
+      "title": "Elektromagnet",
+      "page": 4,
+      "keywords": [
+        "Spule",
+        "Eisenkern",
+        "Oersted"
+      ]
+    }
+  ]
+}

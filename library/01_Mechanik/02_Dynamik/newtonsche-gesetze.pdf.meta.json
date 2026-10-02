@@ -1,0 +1,40 @@
+{
+  "title": "Die Newtonschen Gesetze",
+  "type": "Grundwissen",
+  "level": "Mittelstufe",
+  "tags": [
+    "Kraft",
+    "Trägheit",
+    "Masse",
+    "Wechselwirkung"
+  ],
+  "summary": "Trägheitsprinzip, Grundgleichung der Mechanik F = m · a und das Wechselwirkungsprinzip.",
+  "chapters": [
+    {
+      "title": "Trägheitsprinzip",
+      "page": 2,
+      "keywords": [
+        "1. Newtonsches Gesetz",
+        "Trägheit"
+      ]
+    },
+    {
+      "title": "Grundgleichung der Mechanik",
+      "page": 3,
+      "keywords": [
+        "F = m · a",
+        "Newton",
+        "2. Newtonsches Gesetz"
+      ]
+    },
+    {
+      "title": "Wechselwirkungsprinzip",
+      "page": 4,
+      "keywords": [
+        "actio = reactio",
+        "Gegenkraft",
+        "3. Newtonsches Gesetz"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Aufgaben zur Kinematik",
+  "type": "Aufgaben",
+  "level": "Mittelstufe",
+  "tags": [
+    "Übungsaufgaben",
+    "Geschwindigkeit",
+    "Beschleunigung",
+    "freier Fall"
+  ],
+  "summary": "Drei Rechenaufgaben zu Durchschnittsgeschwindigkeit, beschleunigter Bewegung und freiem Fall – mit Lösungen.",
+  "chapters": [
+    {
+      "title": "Aufgabe 1: Radfahrt",
+      "page": 2,
+      "keywords": [
+        "Durchschnittsgeschwindigkeit"
+      ]
+    },
+    {
+      "title": "Aufgabe 2: Anfahrender Zug",
+      "page": 3,
+      "keywords": [
+        "Beschleunigung",
+        "Weg"
+      ]
+    },
+    {
+      "title": "Aufgabe 3: Fallender Stein",
+      "page": 4,
+      "keywords": [
+        "freier Fall"
+      ]
+    },
+    {
+      "title": "Lösungen",
+      "page": 5,
+      "keywords": [
+        "Lösung"
+      ]
+    }
+  ]
+}

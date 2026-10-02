@@ -1,0 +1,38 @@
+{
+  "title": "Arbeitsblatt: Reflexion am Spiegel",
+  "type": "Arbeitsblatt",
+  "level": "Unterstufe",
+  "tags": [
+    "Reflexion",
+    "Spiegel",
+    "Reflexionsgesetz",
+    "Übungsaufgaben"
+  ],
+  "summary": "Interaktives HTML-Arbeitsblatt: Reflexionsgesetz anwenden, Winkel bestimmen und Spiegelbilder konstruieren.",
+  "chapters": [
+    {
+      "title": "Teil 1: Winkel bestimmen",
+      "anchor": "teil-1",
+      "keywords": [
+        "Einfallswinkel",
+        "Reflexionswinkel"
+      ]
+    },
+    {
+      "title": "Teil 2: Spiegelbild konstruieren",
+      "anchor": "teil-2",
+      "keywords": [
+        "virtuelles Bild",
+        "ebener Spiegel"
+      ]
+    },
+    {
+      "title": "Teil 3: Periskop",
+      "anchor": "teil-3",
+      "keywords": [
+        "Periskop",
+        "Anwendung"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Versuch: Kennlinien aufnehmen",
+  "type": "Versuch",
+  "level": "Mittelstufe",
+  "tags": [
+    "Experiment",
+    "Kennlinie",
+    "Widerstand",
+    "Messwerte"
+  ],
+  "summary": "U-I-Kennlinien eines Konstantandrahts und einer Glühlampe messen und vergleichen.",
+  "chapters": [
+    {
+      "title": "Aufbau",
+      "page": 2,
+      "keywords": [
+        "Netzgerät",
+        "Multimeter"
+      ]
+    },
+    {
+      "title": "Durchführung",
+      "page": 3,
+      "keywords": [
+        "Messreihe"
+      ]
+    },
+    {
+      "title": "Auswertung",
+      "page": 4,
+      "keywords": [
+        "U-I-Kennlinie",
+        "Glühlampe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Versuch: Wellenlänge mit dem Gitter",
+  "type": "Versuch",
+  "level": "Oberstufe",
+  "tags": [
+    "Beugung",
+    "Gitter",
+    "Wellenlänge",
+    "Experiment",
+    "Laser"
+  ],
+  "summary": "Bestimmung der Wellenlänge eines Lasers mit einem optischen Gitter.",
+  "chapters": [
+    {
+      "title": "Aufbau",
+      "page": 2,
+      "keywords": [
+        "Laser",
+        "Gitterkonstante"
+      ]
+    },
+    {
+      "title": "Messung",
+      "page": 3,
+      "keywords": [
+        "Abstand der Maxima"
+      ]
+    },
+    {
+      "title": "Auswertung",
+      "page": 4,
+      "keywords": [
+        "sin(α) = λ / g"
+      ]
+    }
+  ]
+}

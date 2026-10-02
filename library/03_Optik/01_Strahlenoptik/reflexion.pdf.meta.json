@@ -1,0 +1,39 @@
+{
+  "title": "Reflexion des Lichts",
+  "type": "Grundwissen",
+  "level": "Unterstufe",
+  "tags": [
+    "Licht",
+    "Reflexion",
+    "Spiegel",
+    "Reflexionsgesetz"
+  ],
+  "summary": "Geradlinige Lichtausbreitung, das Reflexionsgesetz und Bilder am ebenen Spiegel.",
+  "chapters": [
+    {
+      "title": "Lichtausbreitung",
+      "page": 2,
+      "keywords": [
+        "Lichtstrahl",
+        "Schatten"
+      ]
+    },
+    {
+      "title": "Reflexionsgesetz",
+      "page": 3,
+      "keywords": [
+        "Einfallswinkel",
+        "Reflexionswinkel",
+        "Lot"
+      ]
+    },
+    {
+      "title": "Spiegelbilder",
+      "page": 4,
+      "keywords": [
+        "ebener Spiegel",
+        "virtuelles Bild"
+      ]
+    }
+  ]
+}

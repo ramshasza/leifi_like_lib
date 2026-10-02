@@ -1,0 +1,37 @@
+{
+  "title": "Versuch: Wagen auf der Fahrbahn",
+  "type": "Versuch",
+  "level": "Mittelstufe",
+  "tags": [
+    "Experiment",
+    "Kraft",
+    "Beschleunigung",
+    "Messwerte"
+  ],
+  "summary": "Experimentelle Bestätigung von F = m · a mit einem Wagen auf einer reibungsarmen Fahrbahn.",
+  "chapters": [
+    {
+      "title": "Aufbau",
+      "page": 2,
+      "keywords": [
+        "Fahrbahn",
+        "Lichtschranke"
+      ]
+    },
+    {
+      "title": "Durchführung",
+      "page": 3,
+      "keywords": [
+        "Messreihe"
+      ]
+    },
+    {
+      "title": "Auswertung",
+      "page": 4,
+      "keywords": [
+        "Proportionalität",
+        "F-a-Diagramm"
+      ]
+    }
+  ]
+}

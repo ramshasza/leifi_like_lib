@@ -1,0 +1,37 @@
+{
+  "title": "Elektromagnetische Induktion",
+  "type": "Grundwissen",
+  "level": "Oberstufe",
+  "tags": [
+    "Induktion",
+    "Magnetfeld",
+    "Generator",
+    "Transformator"
+  ],
+  "summary": "Induktionsspannung, Lenzsche Regel und die Anwendungen Generator und Transformator.",
+  "chapters": [
+    {
+      "title": "Induktionsspannung",
+      "page": 2,
+      "keywords": [
+        "magnetischer Fluss",
+        "Faraday"
+      ]
+    },
+    {
+      "title": "Lenzsche Regel",
+      "page": 3,
+      "keywords": [
+        "Gegenwirkung"
+      ]
+    },
+    {
+      "title": "Generator und Transformator",
+      "page": 4,
+      "keywords": [
+        "Wechselspannung",
+        "Windungszahl"
+      ]
+    }
+  ]
+}
